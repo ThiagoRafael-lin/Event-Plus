@@ -1,0 +1,16 @@
+
+.illustrator-brox {
+    display: none;
+}
+
+@media screen and (min-width: 1200px) {
+
+    .ilustrator-box {
+        display: flex;
+    }
+
+    .ilustrator-brox__image {
+        width: 100%;
+        max-width: 436px;
+    }
+}
