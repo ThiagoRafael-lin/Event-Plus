@@ -4,7 +4,7 @@ Event+ é um site para organização de eventos onde você pode criar, gerenciar
 
 ## 🌐 Acesso ao Site
 
-O site está disponível online em: [Link para o site do Event+]
+O site está disponível online em: [https://event-plus-pi.vercel.app/]
 
 ## 🛠 Tecnologias Utilizadas
 
