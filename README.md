@@ -25,3 +25,5 @@ O site está disponível online em: [https://event-plus-pi.vercel.app/]
 ---
 
 Caso tenha dúvidas ou sugestões, entre em contato!
+
+Este projeto foi desenvolvido em sala de aula, e o banco de dados utilizado era local. Por isso, não há como ter acesso a muitas funcionalidades dentro do site.
